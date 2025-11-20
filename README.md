@@ -1,5 +1,7 @@
 # Goofware Malware-Library
-Malware/Campaign samples we have found &amp; investigated that have some element of humor to them.
+*Welcome to our (mis)Adventures in exploring malware!*
+
+This repo is for Malware/Campaign samples we've found & investigated that have some element of humor to them.
 - Directly insulting malware analysts
 - OPSEC fails
 - "Hacking back" in silly ways
